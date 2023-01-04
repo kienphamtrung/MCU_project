@@ -1,0 +1,2 @@
+../Core/Src/global.c:46:6:LedTimeInit	4	static
+../Core/Src/global.c:52:6:Setup	4	static
